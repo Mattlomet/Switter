@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Stwitter.iml" filepath="$PROJECT_DIR$/.idea/Stwitter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" filepath="$PROJECT_DIR$/cloud-config-server/cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/comment-service/comment-service.iml" filepath="$PROJECT_DIR$/comment-service/comment-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/post-service/post-service.iml" filepath="$PROJECT_DIR$/post-service/post-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stwitter-service/stwitter-service.iml" filepath="$PROJECT_DIR$/stwitter-service/stwitter-service.iml" />
+    </modules>
+  </component>
+</project>
